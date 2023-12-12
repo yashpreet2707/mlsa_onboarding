@@ -24,7 +24,7 @@ const imageAltText = "about section background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "A sophomore student pursuing bachelor's in computer science, an aspiring full stack web developer and open source enthusiast.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "A sophomore student pursuing bachelor's in computer science, an aspiring full stack web developer and open source enthusiast.";
+  "This is a Portfolio Website.";
 
 const About = () => {
   return (
